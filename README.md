@@ -35,14 +35,19 @@ NODE_ENV=development
 ### Frontend (`/frontend`)
 ```env
 VITE_STREAM_API_KEY=your_stream_api_key
+```
 
-🔧 Run the Backend
+### 🔧 Run the Backend
+```
 - cd backend
 - npm install
 - npm run dev
+```
 
-💻 Run the Frontend
+### 💻 Run the Frontend
+```
 - cd frontend
 - npm install
 - npm run dev
 ```
+
