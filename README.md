@@ -2,7 +2,7 @@
 
 A feature-rich, full-stack communication application designed for seamless **real-time messaging** and **high-quality video calls**. Built with a modern **MERN stack** and integrated with the powerful **Stream API**, this project showcases a robust, scalable, and user-centric architecture.
 
-**🌐 Live Demo:** [https://streamity.onrender.com](https://streamity.onrender.com)
+![Chat Screen](./frontend/public/screenshot-for-readme.png)
 
 ---
 
@@ -50,4 +50,5 @@ VITE_STREAM_API_KEY=your_stream_api_key
 - npm install
 - npm run dev
 ```
+
 
